@@ -1,0 +1,29 @@
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\appsettings.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.staticwebassets.runtime.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.exe
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.deps.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.runtimeconfig.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.dll
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\Estética automotiva.pdb
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.csproj.AssemblyReference.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.AssemblyInfoInputs.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.AssemblyInfo.cs
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.RazorAssemblyInfo.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.RazorAssemblyInfo.cs
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\scopedcss\bundle\Estética automotiva.styles.css
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\scopedcss\projectbundle\Estética automotiva.bundle.scp.css
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.dll
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\refint\Estética automotiva.dll
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.pdb
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\Estética automotiva.genruntimeconfig.cache
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\obj\Debug\net6.0\ref\Estética automotiva.dll
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\client\package.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\package-lock.json
+C:\Users\CHRISTIAN #21\Documents\Sistemas\Estética automotiva\bin\Debug\net6.0\package.json

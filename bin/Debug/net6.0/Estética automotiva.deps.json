@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estética automotiva/1.0.0": {
+        "runtime": {
+          "Estética automotiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estética automotiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
